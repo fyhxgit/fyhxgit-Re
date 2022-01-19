@@ -52,14 +52,39 @@
 >>> 第三层引用
 >>>> 第四层引用
 
+## Markdown 插入代码块
 
+```c
+	#include <stdio.h>
 
+	int main(void)
+	{
+		printf("C output..\n");
+		return 0;
+	}
+```
 
+```python
+	import os
+	def main():
+		print("python code..\n")
+```
 
+```bash
+	sudo apt-get install pip3
+	echo "数据回显"
+```
 
-
-
-
+```cpp
+	#include <iostream>
+	using namespace std;
+	int main(void)
+	{
+		cout<<"cpp code..\n"<<endl;
+		system("pause");
+		return 0;
+	}
+```
 
 
 
