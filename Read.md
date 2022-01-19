@@ -94,3 +94,10 @@
 
 [哔哩哔哩](https://www.bilibili.com "跳转到b站")
 [百度](https://www.baidu.com "跳转到百度")
+
+## 在文章中插入自定义图片
+
+![皮卡丘](https://s2.loli.net/2022/01/19/21kLir9TvmZIbeH.jpg)
+
+
+
